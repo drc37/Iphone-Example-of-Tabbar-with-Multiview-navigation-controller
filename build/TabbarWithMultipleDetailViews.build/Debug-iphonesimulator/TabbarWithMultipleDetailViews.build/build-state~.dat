@@ -1,0 +1,441 @@
+TTabbarWithMultipleDetailViews
+v7
+r0
+t314033702.695600
+cCheck dependencies
+cProcessInfoPlistFile /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/Info.plist TabbarWithMultipleDetailViews-Info.plist
+cCompileXIB /Users/david/ios/TabbarWithMultipleDetailViews/MainWindow.xib
+cCompileXIB /Users/david/ios/TabbarWithMultipleDetailViews/SecondView.xib
+cCompileXIB /Users/david/ios/TabbarWithMultipleDetailViews/FirstView.xib
+cCompileXIB /Users/david/ios/TabbarWithMultipleDetailViews/DetailView.xib
+cCompileXIB /Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.xib
+cProcessPCH /var/folders/Ny/Ny7Uv+ItFhGVvA4TPTSHNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbarWithMultipleDetailViews_Prefix-chxmgqbvxvdljeenhnoyzlmjycjp/TabbarWithMultipleDetailViews_Prefix.pch.gch TabbarWithMultipleDetailViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/main.o /Users/david/ios/TabbarWithMultipleDetailViews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/TabbarWithMultipleDetailViewsAppDelegate.o /Users/david/ios/TabbarWithMultipleDetailViews/Classes/TabbarWithMultipleDetailViewsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/FirstViewController.o /Users/david/ios/TabbarWithMultipleDetailViews/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/SecondViewController.o /Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/DetailViewController.o /Users/david/ios/TabbarWithMultipleDetailViews/Classes/../DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/RootViewController.o /Users/david/ios/TabbarWithMultipleDetailViews/Classes/../RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o /Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/TabbarWithMultipleDetailViews normal i386
+cGenerateDSYMFile /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app.dSYM /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/TabbarWithMultipleDetailViews
+cTouch /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/Classes/../DetailViewController.h
+c000000004D06713B0000000000000391
+t1292267835
+s913
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/Classes/../DetailViewController.m
+c000000004D0671790000000000001051
+t1292267897
+s4177
+i"DetailViewController.h"
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/Classes/../RootViewController.h
+c000000004D0671B60000000000000403
+t1292267958
+s1027
+i<UIKit/UIKit.h>
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/Classes/../RootViewController.m
+c000000004D0671640000000000001361
+t1292267876
+s4961
+i"RootViewController.h"
+i"DetailViewController.h"
+i"SecondDetailViewController.h"
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/Classes/FirstViewController.h
+c000000004D0669E30000000000000191
+t1292265955
+s401
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/Classes/FirstViewController.m
+c000000004D066A130000000000000538
+t1292266003
+s1336
+i"FirstViewController.h"
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.h
+c000000004D066C6900000000000001B8
+t1292266601
+s440
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.m
+c000000004D0669B60000000000000473
+t1292265910
+s1139
+i"SecondDetailViewController.h"
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.xib
+c000000004D06696000000000000050A7
+t1292265824
+s20647
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondViewController.h
+c000000004D0666860000000000000101
+t1292265094
+s257
+i<UIKit/UIKit.h>
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondViewController.m
+c000000004D06668600000000000003B3
+t1292265094
+s947
+i"SecondViewController.h"
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/Classes/TabbarWithMultipleDetailViewsAppDelegate.h
+c000000004D06676900000000000003D5
+t1292265321
+s981
+i<UIKit/UIKit.h>
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/Classes/TabbarWithMultipleDetailViewsAppDelegate.m
+c000000004D066DC70000000000000F12
+t1292266951
+s3858
+i"TabbarWithMultipleDetailViewsAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/DetailView.xib
+c000000004D0624A80000000000005004
+t1292248232
+s20484
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/DetailViewController.h
+c000000004D06713B0000000000000391
+t1292267835
+s913
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/FirstView.xib
+c000000004D0666860000000000005633
+t1292265094
+s22067
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/MainWindow.xib
+c000000004D0666B30000000000006A41
+t1292265139
+s27201
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/RootViewController.h
+c000000004D0671B60000000000000403
+t1292267958
+s1027
+i<UIKit/UIKit.h>
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/SecondView.xib
+c000000004D0666860000000000005C5F
+t1292265094
+s23647
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/TabbarWithMultipleDetailViews_Prefix.pch
+c000000004D06668600000000000000E3
+t1292265094
+s227
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app
+t1292340902
+s340
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app.dSYM
+t1292340902
+s102
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/DetailView.nib
+t1292340900
+s1452
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/FirstView.nib
+t1292340900
+s1854
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/Info.plist
+t1292340899
+s892
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/MainWindow.nib
+t1292340900
+s1834
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/PkgInfo
+t1292340899
+s8
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/SecondDetailViewController.nib
+t1292340901
+s795
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/SecondView.nib
+t1292340900
+s1928
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/TabbarWithMultipleDetailViews
+t1292340902
+s43476
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/DetailViewController.o
+t1292340902
+s52460
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/FirstViewController.o
+t1292340902
+s42244
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/RootViewController.o
+t1292340902
+s53500
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o
+t1292340902
+s41480
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/SecondViewController.o
+t1292340902
+s38024
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/TabbarWithMultipleDetailViews.LinkFileList
+c000000004D078EA20000000000000539
+t1292340898
+s1337
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/TabbarWithMultipleDetailViewsAppDelegate.o
+t1292340902
+s64736
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/main.o
+t1292340902
+s6320
+
+N/Users/david/ios/TabbarWithMultipleDetailViews/main.m
+c000000004D066687000000000000017A
+t1292265095
+s378
+i<UIKit/UIKit.h>
+
+N/var/folders/Ny/Ny7Uv+ItFhGVvA4TPTSHNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbarWithMultipleDetailViews_Prefix-chxmgqbvxvdljeenhnoyzlmjycjp/TabbarWithMultipleDetailViews_Prefix.pch.gch
+t1292265395
+s15453392
+
+NTabbarWithMultipleDetailViews-Info.plist
+c000000004D06668600000000000004D6
+t1292265094
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314033698#314033699#0(0"0(0#1#0"8626222400#0"0#
+
+CCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/DetailViewController.o /Users/david/ios/TabbarWithMultipleDetailViews/Classes/../DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314033702.196360
+e314033702.391410
+r1
+xCompileC
+xbuild/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/DetailViewController.o
+x/Users/david/ios/TabbarWithMultipleDetailViews/Classes/../DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/david/ios/TabbarWithMultipleDetailViews/Classes/../DetailViewController.m314033702#314033702#0(0"0(0#0#80"/Users/david/ios/TabbarWithMultipleDetailViews/Classes/../DetailViewController.m8624844384#2485"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-generated-files.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-own-target-headers.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-all-target-headers.hmap -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-project-headers.hmap -F/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator -I/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources/i386 -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources -include /var/folders/Ny/Ny7Uv+ItFhGVvA4TPTSHNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbarWithMultipleDetailViews_Prefix-chxmgqbvxvdljeenhnoyzlmjycjp/TabbarWithMultipleDetailViews_Prefix.pch -c /Users/david/ios/TabbarWithMultipleDetailViews/Classes/../DetailViewController.m -o /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/FirstViewController.o /Users/david/ios/TabbarWithMultipleDetailViews/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314033702.122844
+e314033702.196259
+r1
+xCompileC
+xbuild/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/FirstViewController.o
+x/Users/david/ios/TabbarWithMultipleDetailViews/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/david/ios/TabbarWithMultipleDetailViews/Classes/FirstViewController.m314033702#314033702#0(0"0(0#0#76"/Users/david/ios/TabbarWithMultipleDetailViews/Classes/FirstViewController.m8627982496#2480"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-generated-files.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-own-target-headers.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-all-target-headers.hmap -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-project-headers.hmap -F/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator -I/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources/i386 -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources -include /var/folders/Ny/Ny7Uv+ItFhGVvA4TPTSHNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbarWithMultipleDetailViews_Prefix-chxmgqbvxvdljeenhnoyzlmjycjp/TabbarWithMultipleDetailViews_Prefix.pch -c /Users/david/ios/TabbarWithMultipleDetailViews/Classes/FirstViewController.m -o /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/RootViewController.o /Users/david/ios/TabbarWithMultipleDetailViews/Classes/../RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314033702.232062
+e314033702.412491
+r1
+xCompileC
+xbuild/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/RootViewController.o
+x/Users/david/ios/TabbarWithMultipleDetailViews/Classes/../RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/david/ios/TabbarWithMultipleDetailViews/Classes/../RootViewController.m314033702#314033702#0(0"0(0#0#78"/Users/david/ios/TabbarWithMultipleDetailViews/Classes/../RootViewController.m8620395520#2481"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-generated-files.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-own-target-headers.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-all-target-headers.hmap -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-project-headers.hmap -F/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator -I/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources/i386 -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources -include /var/folders/Ny/Ny7Uv+ItFhGVvA4TPTSHNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbarWithMultipleDetailViews_Prefix-chxmgqbvxvdljeenhnoyzlmjycjp/TabbarWithMultipleDetailViews_Prefix.pch -c /Users/david/ios/TabbarWithMultipleDetailViews/Classes/../RootViewController.m -o /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o /Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314033702.391496
+e314033702.477828
+r1
+xCompileC
+xbuild/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o
+x/Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.m314033702#314033702#0(0"0(0#0#83"/Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.m8626329344#2494"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-generated-files.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-own-target-headers.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-all-target-headers.hmap -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-project-headers.hmap -F/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator -I/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources/i386 -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources -include /var/folders/Ny/Ny7Uv+ItFhGVvA4TPTSHNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbarWithMultipleDetailViews_Prefix-chxmgqbvxvdljeenhnoyzlmjycjp/TabbarWithMultipleDetailViews_Prefix.pch -c /Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.m -o /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o0#
+
+CCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/SecondViewController.o /Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314033702.167803
+e314033702.231969
+r1
+xCompileC
+xbuild/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/SecondViewController.o
+x/Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondViewController.m314033702#314033702#0(0"0(0#0#77"/Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondViewController.m8626281984#2482"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-generated-files.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-own-target-headers.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-all-target-headers.hmap -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-project-headers.hmap -F/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator -I/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources/i386 -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources -include /var/folders/Ny/Ny7Uv+ItFhGVvA4TPTSHNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbarWithMultipleDetailViews_Prefix-chxmgqbvxvdljeenhnoyzlmjycjp/TabbarWithMultipleDetailViews_Prefix.pch -c /Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondViewController.m -o /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/SecondViewController.o0#
+
+CCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/TabbarWithMultipleDetailViewsAppDelegate.o /Users/david/ios/TabbarWithMultipleDetailViews/Classes/TabbarWithMultipleDetailViewsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314033701.333329
+e314033702.167700
+r1
+xCompileC
+xbuild/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/TabbarWithMultipleDetailViewsAppDelegate.o
+x/Users/david/ios/TabbarWithMultipleDetailViews/Classes/TabbarWithMultipleDetailViewsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/david/ios/TabbarWithMultipleDetailViews/Classes/TabbarWithMultipleDetailViewsAppDelegate.m314033701#314033702#0(0"0(0#0#97"/Users/david/ios/TabbarWithMultipleDetailViews/Classes/TabbarWithMultipleDetailViewsAppDelegate.m8620294720#2522"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-generated-files.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-own-target-headers.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-all-target-headers.hmap -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-project-headers.hmap -F/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator -I/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources/i386 -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources -include /var/folders/Ny/Ny7Uv+ItFhGVvA4TPTSHNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbarWithMultipleDetailViews_Prefix-chxmgqbvxvdljeenhnoyzlmjycjp/TabbarWithMultipleDetailViews_Prefix.pch -c /Users/david/ios/TabbarWithMultipleDetailViews/Classes/TabbarWithMultipleDetailViewsAppDelegate.m -o /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/TabbarWithMultipleDetailViewsAppDelegate.o0#
+
+CCompileC build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/main.o /Users/david/ios/TabbarWithMultipleDetailViews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314033701.331867
+e314033702.122677
+r1
+xCompileC
+xbuild/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/main.o
+x/Users/david/ios/TabbarWithMultipleDetailViews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/david/ios/TabbarWithMultipleDetailViews/main.m314033701#314033702#0(0"0(0#0#53"/Users/david/ios/TabbarWithMultipleDetailViews/main.m8620651424#2442"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-generated-files.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-own-target-headers.hmap -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-all-target-headers.hmap -iquote /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/TabbarWithMultipleDetailViews-project-headers.hmap -F/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator -I/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources/i386 -I/Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/DerivedSources -include /var/folders/Ny/Ny7Uv+ItFhGVvA4TPTSHNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbarWithMultipleDetailViews_Prefix-chxmgqbvxvdljeenhnoyzlmjycjp/TabbarWithMultipleDetailViews_Prefix.pch -c /Users/david/ios/TabbarWithMultipleDetailViews/main.m -o /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.xib
+s314033700.945481
+e314033701.331507
+r1
+xCompileXIB
+x/Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on SecondDetailViewController.
+lSLF07#2@49"CompileXIB Classes/SecondDetailViewController.xib314033700#314033701#0(262"/* com.apple.ibtool.document.warnings *//Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on SecondDetailViewController.1(22@121"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on SecondDetailViewController.314033701#18446744073709551615#0#0(6@85"/Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.xib313958624#18446744073709551615#0#18446744073709551615#0#0"0(0#0#85"/Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.xib8621599776#656"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/SecondDetailViewController.nib /Users/david/ios/TabbarWithMultipleDetailViews/Classes/SecondDetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/david/ios/TabbarWithMultipleDetailViews/DetailView.xib
+s314033700.549880
+e314033700.945390
+r1
+xCompileXIB
+x/Users/david/ios/TabbarWithMultipleDetailViews/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib314033700#314033700#0(0"0(0#0#61"/Users/david/ios/TabbarWithMultipleDetailViews/DetailView.xib8626525888#616"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/DetailView.nib /Users/david/ios/TabbarWithMultipleDetailViews/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/david/ios/TabbarWithMultipleDetailViews/FirstView.xib
+s314033700.466410
+e314033700.977432
+r1
+xCompileXIB
+x/Users/david/ios/TabbarWithMultipleDetailViews/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib314033700#314033700#0(0"0(0#0#60"/Users/david/ios/TabbarWithMultipleDetailViews/FirstView.xib8628034848#614"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/FirstView.nib /Users/david/ios/TabbarWithMultipleDetailViews/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/david/ios/TabbarWithMultipleDetailViews/MainWindow.xib
+s314033699.155070
+e314033700.466324
+r1
+xCompileXIB
+x/Users/david/ios/TabbarWithMultipleDetailViews/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314033699#314033700#0(0"0(0#0#61"/Users/david/ios/TabbarWithMultipleDetailViews/MainWindow.xib8616927648#616"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/MainWindow.nib /Users/david/ios/TabbarWithMultipleDetailViews/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/david/ios/TabbarWithMultipleDetailViews/SecondView.xib
+s314033699.155765
+e314033700.549697
+r1
+xCompileXIB
+x/Users/david/ios/TabbarWithMultipleDetailViews/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib314033699#314033700#0(0"0(0#0#61"/Users/david/ios/TabbarWithMultipleDetailViews/SecondView.xib8611147200#616"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/SecondView.nib /Users/david/ios/TabbarWithMultipleDetailViews/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app.dSYM /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/TabbarWithMultipleDetailViews
+s314033702.667975
+e314033702.692715
+r1
+xGenerateDSYMFile
+x/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app.dSYM
+x/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/TabbarWithMultipleDetailViews
+lSLF07#2@175"GenerateDSYMFile build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app.dSYM build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/TabbarWithMultipleDetailViews314033702#314033702#0(0"0(0#0#138"/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/TabbarWithMultipleDetailViews8620983744#473"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/TabbarWithMultipleDetailViews -o /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app.dSYM0#
+
+CLd /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/TabbarWithMultipleDetailViews normal i386
+s314033702.477909
+e314033702.667890
+r1
+xLd
+x/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/TabbarWithMultipleDetailViews
+xnormal
+xi386
+lSLF07#2@143"Link /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/TabbarWithMultipleDetailViews314033702#314033702#0(0"0(0#0#0"8624694528#1050"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator -F/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator -filelist /Users/david/ios/TabbarWithMultipleDetailViews/build/TabbarWithMultipleDetailViews.build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.build/Objects-normal/i386/TabbarWithMultipleDetailViews.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/TabbarWithMultipleDetailViews0#
+
+CProcessInfoPlistFile /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/Info.plist TabbarWithMultipleDetailViews-Info.plist
+s314033699.045144
+e314033699.154990
+r1
+xProcessInfoPlistFile
+x/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/Info.plist
+xTabbarWithMultipleDetailViews-Info.plist
+lSLF07#2@48"Process TabbarWithMultipleDetailViews-Info.plist314033699#314033699#0(0"0(0#0#87"/Users/david/ios/TabbarWithMultipleDetailViews/TabbarWithMultipleDetailViews-Info.plist8620311552#569"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TabbarWithMultipleDetailViews-Info.plist -genpkginfo /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app/Info.plist0#
+
+CProcessPCH /var/folders/Ny/Ny7Uv+ItFhGVvA4TPTSHNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbarWithMultipleDetailViews_Prefix-chxmgqbvxvdljeenhnoyzlmjycjp/TabbarWithMultipleDetailViews_Prefix.pch.gch TabbarWithMultipleDetailViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app
+s314033702.692796
+e314033702.695512
+r1
+xTouch
+x/Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app
+lSLF07#2@114"Touch /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app314033702#314033702#0(0"0(0#0#0"8620412896#316"    cd /Users/david/ios/TabbarWithMultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/david/ios/TabbarWithMultipleDetailViews/build/Debug-iphonesimulator/TabbarWithMultipleDetailViews.app0#
+
